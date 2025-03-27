@@ -1,0 +1,9 @@
+CRIME TYPE AND OCCURRENCE PREDICTION USING MACHINE LEARNING ALGORITHM
+
+Algorithms: Random Forest Classifier
+
+Accuracy score: 0.80
+
+
+
+
